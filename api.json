@@ -1,0 +1,10 @@
+[
+    {
+        "url":"/register",
+        "requiredBody":[
+            "username",
+            "password"
+        ],
+        "targetUrl":"http://149.129.247.11:9999/"
+    }
+]
